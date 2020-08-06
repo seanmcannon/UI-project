@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  font-size: 62.5%;
+  line-height: 1.8rem;
+}
+  
+
+h1 {
+  font-size: .2rem;
+}
+
+h2 {
+  font-size: 2.0rem;
+}
+
+p {
+  font-size: 1.8rem;
+}
+
+body {
+  background-color: salmon;
+  font-family: 'Raleway', sans-serif;;
+
+}
