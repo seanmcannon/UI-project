@@ -18,12 +18,49 @@ h2 {
   font-size: 2.0rem;
 }
 
-p {
+p, a {
   font-size: 1.8rem;
+}
+
+a {
+    text-decoration: none;
+    font-size: 2.4rem;
+    
+
+}
+
+.container{
+    width:1200px;
+    margin:0 auto;
 }
 
 body {
   background-color: salmon;
   font-family: 'Raleway', sans-serif;;
 
+}
+
+img {
+    width:200px;
+    height:auto;
+}
+nav {
+    display: flex;
+    margin: 20px;
+}
+
+.content {
+    border: 1px solid black;
+    margin-bottom: 20px;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-between;
+    
+    
+
+}
+
+.food-content {
+    width: 70%;
+    padding: 20px;
 }
